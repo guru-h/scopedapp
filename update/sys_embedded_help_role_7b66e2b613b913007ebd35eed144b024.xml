@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_acme_invtry_mgmt.inventory_user" name="x_acme_invtry_mgmt.inventory_user">ff66e2b613b913007ebd35eed144b020</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>nikhil.bendre</sys_created_by>
+        <sys_created_on>2018-05-04 23:25:20</sys_created_on>
+        <sys_id>7b66e2b613b913007ebd35eed144b024</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ff66e2b613b913007ebd35eed144b020</sys_name>
+        <sys_package display_value="Inventory Management" source="x_acme_invtry_mgmt">9ae5e67613b913007ebd35eed144b0f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Inventory Management">9ae5e67613b913007ebd35eed144b0f8</sys_scope>
+        <sys_update_name>sys_embedded_help_role_7b66e2b613b913007ebd35eed144b024</sys_update_name>
+        <sys_updated_by>nikhil.bendre</sys_updated_by>
+        <sys_updated_on>2018-05-04 23:25:20</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

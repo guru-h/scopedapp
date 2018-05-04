@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Inventory" max_length="40" name="x_acme_invtry_mgmt_inventory" type="collection">
+        <element label="count" max_length="40" name="count" type="integer"/>
+        <element label="maker" max_length="40" name="maker" type="string"/>
+        <element label="model" max_length="40" name="model" type="string"/>
+        <element label="Store" max_length="40" name="store" type="string"/>
+    </element>
+</database>

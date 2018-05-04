@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_acme_invtry_mgmt_inventory</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>nikhil.bendre</sys_created_by>
+        <sys_created_on>2018-05-04 23:25:22</sys_created_on>
+        <sys_id>d476e2b613b913007ebd35eed144b087</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_acme_invtry_mgmt_inventory</sys_name>
+        <sys_package display_value="Inventory Management" source="x_acme_invtry_mgmt">9ae5e67613b913007ebd35eed144b0f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Inventory Management">9ae5e67613b913007ebd35eed144b0f8</sys_scope>
+        <sys_update_name>ua_table_licensing_config_d476e2b613b913007ebd35eed144b087</sys_update_name>
+        <sys_updated_by>nikhil.bendre</sys_updated_by>
+        <sys_updated_on>2018-05-04 23:25:22</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

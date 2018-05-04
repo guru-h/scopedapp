@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_acme_invtry_mgmt_inventory</description>
+        <name>x_acme_invtry_mgmt_inventory</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>nikhil.bendre</sys_created_by>
+        <sys_created_on>2018-05-04 23:25:21</sys_created_on>
+        <sys_id>8876e2b613b913007ebd35eed144b04e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_acme_invtry_mgmt_inventory</sys_name>
+        <sys_package display_value="Inventory Management" source="x_acme_invtry_mgmt">9ae5e67613b913007ebd35eed144b0f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Inventory Management">9ae5e67613b913007ebd35eed144b0f8</sys_scope>
+        <sys_update_name>sys_security_acl_8876e2b613b913007ebd35eed144b04e</sys_update_name>
+        <sys_updated_by>nikhil.bendre</sys_updated_by>
+        <sys_updated_on>2018-05-04 23:25:21</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
